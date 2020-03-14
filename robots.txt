@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rajoosange.deck-cs.dk/sitemap.xml
